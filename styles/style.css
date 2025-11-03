@@ -70,9 +70,6 @@
   color: white;
   text-transform: capitalize;
   letter-spacing: 30px;
-}
-
-.aligned-text {
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -111,7 +108,6 @@
 }
 
 .bet-button {
-  margin-left: 6px;
   padding: 11px 31px;
   border: 1px solid white;
   word-spacing: 1px;
@@ -146,10 +142,6 @@
 .lots__card-list-item {
   width: 334px;
   height: 596px;
-}
-
-.card-link {
-  height: 100%;
 }
 
 .card {

@@ -21,7 +21,7 @@ ul,
 ol,
 li,
 blockquote,
-header{
+header {
   margin: 0;
   padding: 0;
 }
@@ -32,10 +32,6 @@ a {
 
 img {
   width: 100%;
-}
-
-button {
-  font: inherit;
 }
 
 address {
