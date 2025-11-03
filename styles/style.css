@@ -100,11 +100,12 @@
   font-size: 22px;
   color: white;
   text-transform: uppercase;
+  height: 51px;
 }
 
 .description__text {
   align-self: center;
-  word-spacing: 19px;
+  word-spacing: 18px;
 }
 
 .bet-button {
@@ -261,6 +262,7 @@
   display: flex;
   flex-direction: column;
   margin-left: 50px;
+  margin-bottom: 82px;
 }
 
 .footer__menu {
